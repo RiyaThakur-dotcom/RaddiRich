@@ -1,0 +1,21 @@
+{
+  "name": "RaddiRich",
+  "short_name": "RaddiRich",
+  "description": "Dustbin Nahi, Ye Tera ATM Hai! 🏧 Sell your scrap easily.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#16a34a",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
